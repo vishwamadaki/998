@@ -1,7 +1,5 @@
-sunday
-monday
-tuesday
-wednesday
-thursday
-friday
-saturday
+today is tuesday
+month is march
+year is 2022
+an apple a day keeps doctor away
+cat has 9 lives
